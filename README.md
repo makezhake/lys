@@ -1,4 +1,4 @@
 # lys
-ly's  personly repository
-I'am the author of this program
-this program is used for test myself
+ly's  personly repository,
+I'am the author of this program,
+this program is used for test myself.
